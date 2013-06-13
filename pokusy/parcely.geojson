@@ -1,0 +1,780 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "gml_id": "CP.1945626506", "areaValue": 164, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1945626506", "namespace": "CZ-00025712-CUZK_CP", "label": "1353\/3", "nationalCadastralReference": "685429-1353\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.125402758895053, 50.534867623960416 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163976506", "areaValue": 2229, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1163976506", "namespace": "CZ-00025712-CUZK_CP", "label": "1343", "nationalCadastralReference": "685429-1343" }, "geometry": { "type": "Point", "coordinates": [ 14.124210942164463, 50.534972511587206 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165867506", "areaValue": 5738, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165867506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/2", "nationalCadastralReference": "685429-2563\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.121716182867324, 50.534472061061606 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163943506", "areaValue": 1076, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1163943506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/1", "nationalCadastralReference": "685429-1321\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125914576445624, 50.535628318121091 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516406506", "areaValue": 118, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1516406506", "namespace": "CZ-00025712-CUZK_CP", "label": "729\/2", "nationalCadastralReference": "685429-729\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126323452505565, 50.53557705540107 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516405506", "areaValue": 258, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1516405506", "namespace": "CZ-00025712-CUZK_CP", "label": "729\/1", "nationalCadastralReference": "685429-729\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.12631074875017, 50.535756053906596 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164535506", "areaValue": 1473, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164535506", "namespace": "CZ-00025712-CUZK_CP", "label": "1774", "nationalCadastralReference": "685429-1774" }, "geometry": { "type": "Point", "coordinates": [ 14.121631194803724, 50.537179571687439 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1957315506", "areaValue": 221, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1957315506", "namespace": "CZ-00025712-CUZK_CP", "label": "1758\/1", "nationalCadastralReference": "685429-1758\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122083556152246, 50.536678976679148 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1957316506", "areaValue": 8, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1957316506", "namespace": "CZ-00025712-CUZK_CP", "label": "1758\/2", "nationalCadastralReference": "685429-1758\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122082817874977, 50.536766259272945 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164488506", "areaValue": 11, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164488506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/4", "nationalCadastralReference": "685429-1743\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.122439504714057, 50.536173671242814 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163957506", "areaValue": 486, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1163957506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/1", "nationalCadastralReference": "685429-1326\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125124128643742, 50.536235604846958 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164489506", "areaValue": 84, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164489506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/7", "nationalCadastralReference": "685429-1743\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.122376146926408, 50.536228605048542 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165990506", "areaValue": 313, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165990506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/125", "nationalCadastralReference": "685429-2563\/125" }, "geometry": { "type": "Point", "coordinates": [ 14.12170625636382, 50.535902350351797 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165991506", "areaValue": 313, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165991506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/126", "nationalCadastralReference": "685429-2563\/126" }, "geometry": { "type": "Point", "coordinates": [ 14.121799425208563, 50.535730616153096 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165993506", "areaValue": 79, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165993506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/128", "nationalCadastralReference": "685429-2563\/128" }, "geometry": { "type": "Point", "coordinates": [ 14.121393511587007, 50.535614696345888 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165987506", "areaValue": 313, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165987506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/122", "nationalCadastralReference": "685429-2563\/122" }, "geometry": { "type": "Point", "coordinates": [ 14.121180580417988, 50.535308087837379 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165988506", "areaValue": 310, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165988506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/123", "nationalCadastralReference": "685429-2563\/123" }, "geometry": { "type": "Point", "coordinates": [ 14.121271456249799, 50.535125523323472 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165992506", "areaValue": 4876, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165992506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/127", "nationalCadastralReference": "685429-2563\/127" }, "geometry": { "type": "Point", "coordinates": [ 14.121867686146771, 50.53531201852865 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165989506", "areaValue": 4339, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165989506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/124", "nationalCadastralReference": "685429-2563\/124" }, "geometry": { "type": "Point", "coordinates": [ 14.121511139470217, 50.535542508224452 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165978506", "areaValue": 3521, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165978506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/113", "nationalCadastralReference": "685429-2563\/113" }, "geometry": { "type": "Point", "coordinates": [ 14.120293434187232, 50.535151704383836 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165977506", "areaValue": 4003, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165977506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/112", "nationalCadastralReference": "685429-2563\/112" }, "geometry": { "type": "Point", "coordinates": [ 14.120003297607774, 50.535967763929726 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164500506", "areaValue": 474, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164500506", "namespace": "CZ-00025712-CUZK_CP", "label": "1752\/1", "nationalCadastralReference": "685429-1752\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122266184069948, 50.536456027055998 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164507506", "areaValue": 157, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164507506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/4", "nationalCadastralReference": "685429-1755\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.121717298737574, 50.536445512509552 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164508506", "areaValue": 156, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164508506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/5", "nationalCadastralReference": "685429-1755\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.121805489024636, 50.536431410988712 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164509506", "areaValue": 36, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164509506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/6", "nationalCadastralReference": "685429-1755\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.121863510265946, 50.536622244309044 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165866506", "areaValue": 8354, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165866506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/1", "nationalCadastralReference": "685429-2563\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.121440419274631, 50.536091998741881 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1519858506", "areaValue": 937, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1519858506", "namespace": "CZ-00025712-CUZK_CP", "label": "1668\/2", "nationalCadastralReference": "685429-1668\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.121725524500409, 50.536306605271911 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1519893506", "areaValue": 11, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1519893506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/8", "nationalCadastralReference": "685429-1743\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.122466024164227, 50.536188323513869 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165980506", "areaValue": 1564, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165980506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/115", "nationalCadastralReference": "685429-2563\/115" }, "geometry": { "type": "Point", "coordinates": [ 14.120253758262212, 50.536614359517593 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1519857506", "areaValue": 1880, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1519857506", "namespace": "CZ-00025712-CUZK_CP", "label": "1668\/1", "nationalCadastralReference": "685429-1668\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.120128579097711, 50.536839680024791 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1519898506", "areaValue": 1858, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1519898506", "namespace": "CZ-00025712-CUZK_CP", "label": "1773\/1", "nationalCadastralReference": "685429-1773\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.120398402585934, 50.536887835592879 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165986506", "areaValue": 315, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1165986506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/121", "nationalCadastralReference": "685429-2563\/121" }, "geometry": { "type": "Point", "coordinates": [ 14.120787556397088, 50.535955776101957 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165985506", "areaValue": 313, "areaValue_uom": "m2", "beginLifespanVersion": "2012-04-12T06:26:26Z", "localId": "CP.1165985506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/120", "nationalCadastralReference": "685429-2563\/120" }, "geometry": { "type": "Point", "coordinates": [ 14.120703960398831, 50.536150438675769 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.21964284010", "areaValue": 29, "areaValue_uom": "m2", "beginLifespanVersion": "2012-04-12T06:26:26Z", "localId": "CP.21964284010", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/159", "nationalCadastralReference": "685429-2563\/159" }, "geometry": { "type": "Point", "coordinates": [ 14.120908720155375, 50.536106730590525 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165994506", "areaValue": 1337, "areaValue_uom": "m2", "beginLifespanVersion": "2012-04-12T06:26:26Z", "localId": "CP.1165994506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/129", "nationalCadastralReference": "685429-2563\/129" }, "geometry": { "type": "Point", "coordinates": [ 14.121019049140498, 50.536156463494791 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1519894506", "areaValue": 955, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1519894506", "namespace": "CZ-00025712-CUZK_CP", "label": "1768\/1", "nationalCadastralReference": "685429-1768\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.121261088294007, 50.536815370257358 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164504506", "areaValue": 360, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164504506", "namespace": "CZ-00025712-CUZK_CP", "label": "1753", "nationalCadastralReference": "685429-1753" }, "geometry": { "type": "Point", "coordinates": [ 14.122123819418817, 50.536278008775561 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164510506", "areaValue": 128, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164510506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/7", "nationalCadastralReference": "685429-1755\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.121978001922109, 50.536382791826213 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164499506", "areaValue": 216, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164499506", "namespace": "CZ-00025712-CUZK_CP", "label": "1751", "nationalCadastralReference": "685429-1751" }, "geometry": { "type": "Point", "coordinates": [ 14.12217109622566, 50.536625499910514 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164506506", "areaValue": 673, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164506506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/2", "nationalCadastralReference": "685429-1755\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.121948480791213, 50.536538027000184 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164514506", "areaValue": 146, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164514506", "namespace": "CZ-00025712-CUZK_CP", "label": "1759", "nationalCadastralReference": "685429-1759" }, "geometry": { "type": "Point", "coordinates": [ 14.122195804479212, 50.536827762305776 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164503506", "areaValue": 101, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164503506", "namespace": "CZ-00025712-CUZK_CP", "label": "1752\/4", "nationalCadastralReference": "685429-1752\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.121931883774943, 50.536658835617125 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164516506", "areaValue": 55, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164516506", "namespace": "CZ-00025712-CUZK_CP", "label": "1761", "nationalCadastralReference": "685429-1761" }, "geometry": { "type": "Point", "coordinates": [ 14.122002943273136, 50.536767945911912 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164515506", "areaValue": 96, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164515506", "namespace": "CZ-00025712-CUZK_CP", "label": "1760", "nationalCadastralReference": "685429-1760" }, "geometry": { "type": "Point", "coordinates": [ 14.122130146886722, 50.536858426531822 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164501506", "areaValue": 194, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:37Z", "localId": "CP.1164501506", "namespace": "CZ-00025712-CUZK_CP", "label": "1752\/2", "nationalCadastralReference": "685429-1752\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.121779123690214, 50.536709601496582 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164517506", "areaValue": 88, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164517506", "namespace": "CZ-00025712-CUZK_CP", "label": "1762", "nationalCadastralReference": "685429-1762" }, "geometry": { "type": "Point", "coordinates": [ 14.12189330244299, 50.536812526359746 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164518506", "areaValue": 148, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164518506", "namespace": "CZ-00025712-CUZK_CP", "label": "1763", "nationalCadastralReference": "685429-1763" }, "geometry": { "type": "Point", "coordinates": [ 14.121998276313024, 50.536910715586089 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164511506", "areaValue": 126, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164511506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/8", "nationalCadastralReference": "685429-1755\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.121547085172764, 50.536497244538204 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164520506", "areaValue": 113, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164520506", "namespace": "CZ-00025712-CUZK_CP", "label": "1765", "nationalCadastralReference": "685429-1765" }, "geometry": { "type": "Point", "coordinates": [ 14.121785640152495, 50.536848205397462 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164502506", "areaValue": 112, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164502506", "namespace": "CZ-00025712-CUZK_CP", "label": "1752\/3", "nationalCadastralReference": "685429-1752\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.121664474168165, 50.536687627311068 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164519506", "areaValue": 100, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164519506", "namespace": "CZ-00025712-CUZK_CP", "label": "1764", "nationalCadastralReference": "685429-1764" }, "geometry": { "type": "Point", "coordinates": [ 14.121920452054976, 50.536942914399894 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164521506", "areaValue": 706, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164521506", "namespace": "CZ-00025712-CUZK_CP", "label": "1766\/1", "nationalCadastralReference": "685429-1766\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.121504133417647, 50.536793641035615 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164505506", "areaValue": 588, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164505506", "namespace": "CZ-00025712-CUZK_CP", "label": "1755\/1", "nationalCadastralReference": "685429-1755\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.121325253098261, 50.536610054519699 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164543506", "areaValue": 121, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164543506", "namespace": "CZ-00025712-CUZK_CP", "label": "1782", "nationalCadastralReference": "685429-1782" }, "geometry": { "type": "Point", "coordinates": [ 14.122380630697553, 50.536976926081003 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164544506", "areaValue": 142, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164544506", "namespace": "CZ-00025712-CUZK_CP", "label": "1783", "nationalCadastralReference": "685429-1783" }, "geometry": { "type": "Point", "coordinates": [ 14.122477537077287, 50.536939639829662 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164498506", "areaValue": 148, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164498506", "namespace": "CZ-00025712-CUZK_CP", "label": "1750", "nationalCadastralReference": "685429-1750" }, "geometry": { "type": "Point", "coordinates": [ 14.122312372657396, 50.536775090277736 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164545506", "areaValue": 260, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164545506", "namespace": "CZ-00025712-CUZK_CP", "label": "1784\/1", "nationalCadastralReference": "685429-1784\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122591661966217, 50.537033842195747 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164497506", "areaValue": 100, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164497506", "namespace": "CZ-00025712-CUZK_CP", "label": "1749", "nationalCadastralReference": "685429-1749" }, "geometry": { "type": "Point", "coordinates": [ 14.122436838906582, 50.536732392789091 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164546506", "areaValue": 17, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164546506", "namespace": "CZ-00025712-CUZK_CP", "label": "1784\/2", "nationalCadastralReference": "685429-1784\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122568644570194, 50.536884214857324 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164547506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164547506", "namespace": "CZ-00025712-CUZK_CP", "label": "1784\/3", "nationalCadastralReference": "685429-1784\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.122604068204756, 50.536869707103556 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164496506", "areaValue": 142, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164496506", "namespace": "CZ-00025712-CUZK_CP", "label": "1748", "nationalCadastralReference": "685429-1748" }, "geometry": { "type": "Point", "coordinates": [ 14.122285890144706, 50.536584653303599 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164493506", "areaValue": 154, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164493506", "namespace": "CZ-00025712-CUZK_CP", "label": "1746", "nationalCadastralReference": "685429-1746" }, "geometry": { "type": "Point", "coordinates": [ 14.122525698675027, 50.5367024612191 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164494506", "areaValue": 269, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164494506", "namespace": "CZ-00025712-CUZK_CP", "label": "1747\/1", "nationalCadastralReference": "685429-1747\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122388694420051, 50.53652211260453 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164495506", "areaValue": 25, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164495506", "namespace": "CZ-00025712-CUZK_CP", "label": "1747\/2", "nationalCadastralReference": "685429-1747\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122632368207924, 50.536637272900592 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164492506", "areaValue": 25, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164492506", "namespace": "CZ-00025712-CUZK_CP", "label": "1745\/2", "nationalCadastralReference": "685429-1745\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122675422174469, 50.536617279665322 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164486506", "areaValue": 137, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164486506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/2", "nationalCadastralReference": "685429-1743\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122447471047431, 50.536351268083159 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164485506", "areaValue": 95, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164485506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/1", "nationalCadastralReference": "685429-1743\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122505608995402, 50.536332636787989 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164487506", "areaValue": 66, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164487506", "namespace": "CZ-00025712-CUZK_CP", "label": "1743\/3", "nationalCadastralReference": "685429-1743\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.1225517796808, 50.536315285798359 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164484506", "areaValue": 146, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164484506", "namespace": "CZ-00025712-CUZK_CP", "label": "1742", "nationalCadastralReference": "685429-1742" }, "geometry": { "type": "Point", "coordinates": [ 14.122600954474638, 50.536315185534328 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164490506", "areaValue": 251, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164490506", "namespace": "CZ-00025712-CUZK_CP", "label": "1744", "nationalCadastralReference": "685429-1744" }, "geometry": { "type": "Point", "coordinates": [ 14.122590949591965, 50.536494156173887 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164481506", "areaValue": 146, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164481506", "namespace": "CZ-00025712-CUZK_CP", "label": "1739", "nationalCadastralReference": "685429-1739" }, "geometry": { "type": "Point", "coordinates": [ 14.122734224406909, 50.53629825256408 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164480506", "areaValue": 177, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164480506", "namespace": "CZ-00025712-CUZK_CP", "label": "1738", "nationalCadastralReference": "685429-1738" }, "geometry": { "type": "Point", "coordinates": [ 14.122746446702729, 50.536435555324687 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164491506", "areaValue": 149, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164491506", "namespace": "CZ-00025712-CUZK_CP", "label": "1745\/1", "nationalCadastralReference": "685429-1745\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122738523234469, 50.536596190733661 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164479506", "areaValue": 149, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164479506", "namespace": "CZ-00025712-CUZK_CP", "label": "1737", "nationalCadastralReference": "685429-1737" }, "geometry": { "type": "Point", "coordinates": [ 14.122859452784603, 50.536561708724015 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164476506", "areaValue": 300, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164476506", "namespace": "CZ-00025712-CUZK_CP", "label": "1734", "nationalCadastralReference": "685429-1734" }, "geometry": { "type": "Point", "coordinates": [ 14.122901943429762, 50.536376954268917 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1573406506", "areaValue": 31, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1573406506", "namespace": "CZ-00025712-CUZK_CP", "label": "1785\/2", "nationalCadastralReference": "685429-1785\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122663955065926, 50.536868848686183 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1891447506", "areaValue": 36, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1891447506", "namespace": "CZ-00025712-CUZK_CP", "label": "1785\/3", "nationalCadastralReference": "685429-1785\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.12289051924356, 50.536791784582462 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164551506", "areaValue": 220, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164551506", "namespace": "CZ-00025712-CUZK_CP", "label": "1788", "nationalCadastralReference": "685429-1788" }, "geometry": { "type": "Point", "coordinates": [ 14.12283537624616, 50.537061020709871 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164550506", "areaValue": 214, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164550506", "namespace": "CZ-00025712-CUZK_CP", "label": "1787", "nationalCadastralReference": "685429-1787" }, "geometry": { "type": "Point", "coordinates": [ 14.123077692445717, 50.5369900090651 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164552506", "areaValue": 234, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164552506", "namespace": "CZ-00025712-CUZK_CP", "label": "1789", "nationalCadastralReference": "685429-1789" }, "geometry": { "type": "Point", "coordinates": [ 14.123132600096609, 50.537047448119012 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164459506", "areaValue": 100, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164459506", "namespace": "CZ-00025712-CUZK_CP", "label": "1719", "nationalCadastralReference": "685429-1719" }, "geometry": { "type": "Point", "coordinates": [ 14.123471287600342, 50.536167850519234 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164458506", "areaValue": 77, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164458506", "namespace": "CZ-00025712-CUZK_CP", "label": "1718", "nationalCadastralReference": "685429-1718" }, "geometry": { "type": "Point", "coordinates": [ 14.123509682628615, 50.5362284295176 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1585945506", "areaValue": 161, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1585945506", "namespace": "CZ-00025712-CUZK_CP", "label": "1729\/1", "nationalCadastralReference": "685429-1729\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123104153540483, 50.536152412114085 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164478506", "areaValue": 1872, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164478506", "namespace": "CZ-00025712-CUZK_CP", "label": "1736", "nationalCadastralReference": "685429-1736" }, "geometry": { "type": "Point", "coordinates": [ 14.123065683886436, 50.536612651977087 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164441506", "areaValue": 149, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164441506", "namespace": "CZ-00025712-CUZK_CP", "label": "1705", "nationalCadastralReference": "685429-1705" }, "geometry": { "type": "Point", "coordinates": [ 14.123306686500698, 50.53684624436395 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164445506", "areaValue": 21, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164445506", "namespace": "CZ-00025712-CUZK_CP", "label": "1708\/2", "nationalCadastralReference": "685429-1708\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123357539264477, 50.536599502409942 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164443506", "areaValue": 96, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164443506", "namespace": "CZ-00025712-CUZK_CP", "label": "1707", "nationalCadastralReference": "685429-1707" }, "geometry": { "type": "Point", "coordinates": [ 14.123236676835011, 50.536659324010891 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164446506", "areaValue": 21, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164446506", "namespace": "CZ-00025712-CUZK_CP", "label": "1708\/3", "nationalCadastralReference": "685429-1708\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.123318407879959, 50.536615310016892 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164442506", "areaValue": 132, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164442506", "namespace": "CZ-00025712-CUZK_CP", "label": "1706", "nationalCadastralReference": "685429-1706" }, "geometry": { "type": "Point", "coordinates": [ 14.123156949784338, 50.53669752611529 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164468506", "areaValue": 225, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164468506", "namespace": "CZ-00025712-CUZK_CP", "label": "1727", "nationalCadastralReference": "685429-1727" }, "geometry": { "type": "Point", "coordinates": [ 14.123199017314661, 50.536414034457444 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164477506", "areaValue": 177, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164477506", "namespace": "CZ-00025712-CUZK_CP", "label": "1735", "nationalCadastralReference": "685429-1735" }, "geometry": { "type": "Point", "coordinates": [ 14.123066720929856, 50.536472097223211 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1408023506", "areaValue": 23, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1408023506", "namespace": "CZ-00025712-CUZK_CP", "label": "1710\/2", "nationalCadastralReference": "685429-1710\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123577006849011, 50.53651589457526 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1696947506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1696947506", "namespace": "CZ-00025712-CUZK_CP", "label": "1704\/2", "nationalCadastralReference": "685429-1704\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123436502774391, 50.536956390247767 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164512506", "areaValue": 1514, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164512506", "namespace": "CZ-00025712-CUZK_CP", "label": "1756", "nationalCadastralReference": "685429-1756" }, "geometry": { "type": "Point", "coordinates": [ 14.124015318036973, 50.535673891830463 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164483506", "areaValue": 98, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164483506", "namespace": "CZ-00025712-CUZK_CP", "label": "1741", "nationalCadastralReference": "685429-1741" }, "geometry": { "type": "Point", "coordinates": [ 14.122503644758501, 50.536175466979344 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164474506", "areaValue": 163, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164474506", "namespace": "CZ-00025712-CUZK_CP", "label": "1732", "nationalCadastralReference": "685429-1732" }, "geometry": { "type": "Point", "coordinates": [ 14.122758001022076, 50.536112444152721 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164473506", "areaValue": 269, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164473506", "namespace": "CZ-00025712-CUZK_CP", "label": "1731", "nationalCadastralReference": "685429-1731" }, "geometry": { "type": "Point", "coordinates": [ 14.122884420621414, 50.536080818673604 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164475506", "areaValue": 111, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164475506", "namespace": "CZ-00025712-CUZK_CP", "label": "1733", "nationalCadastralReference": "685429-1733" }, "geometry": { "type": "Point", "coordinates": [ 14.122857830065005, 50.53625493227846 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164472506", "areaValue": 265, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164472506", "namespace": "CZ-00025712-CUZK_CP", "label": "1730", "nationalCadastralReference": "685429-1730" }, "geometry": { "type": "Point", "coordinates": [ 14.123004118410718, 50.536039052273964 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1585946506", "areaValue": 62, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1585946506", "namespace": "CZ-00025712-CUZK_CP", "label": "1729\/2", "nationalCadastralReference": "685429-1729\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123153142871706, 50.53620314259026 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164469506", "areaValue": 238, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164469506", "namespace": "CZ-00025712-CUZK_CP", "label": "1728\/1", "nationalCadastralReference": "685429-1728\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123103995551901, 50.536304396165804 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164470506", "areaValue": 45, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164470506", "namespace": "CZ-00025712-CUZK_CP", "label": "1728\/2", "nationalCadastralReference": "685429-1728\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123197100727046, 50.536251512010203 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164455506", "areaValue": 70, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164455506", "namespace": "CZ-00025712-CUZK_CP", "label": "1715", "nationalCadastralReference": "685429-1715" }, "geometry": { "type": "Point", "coordinates": [ 14.123546957756897, 50.536276740274644 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164454506", "areaValue": 70, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164454506", "namespace": "CZ-00025712-CUZK_CP", "label": "1714", "nationalCadastralReference": "685429-1714" }, "geometry": { "type": "Point", "coordinates": [ 14.123574396819956, 50.536324435453686 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164457506", "areaValue": 141, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164457506", "namespace": "CZ-00025712-CUZK_CP", "label": "1717", "nationalCadastralReference": "685429-1717" }, "geometry": { "type": "Point", "coordinates": [ 14.123765836098958, 50.536166928837382 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164453506", "areaValue": 2, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164453506", "namespace": "CZ-00025712-CUZK_CP", "label": "1713\/2", "nationalCadastralReference": "685429-1713\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123736730805879, 50.536328012618931 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164449506", "areaValue": 187, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164449506", "namespace": "CZ-00025712-CUZK_CP", "label": "1711", "nationalCadastralReference": "685429-1711" }, "geometry": { "type": "Point", "coordinates": [ 14.123611799369412, 50.536387557977243 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164456506", "areaValue": 146, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164456506", "namespace": "CZ-00025712-CUZK_CP", "label": "1716", "nationalCadastralReference": "685429-1716" }, "geometry": { "type": "Point", "coordinates": [ 14.123794921241219, 50.536220038912667 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164452506", "areaValue": 143, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164452506", "namespace": "CZ-00025712-CUZK_CP", "label": "1713\/1", "nationalCadastralReference": "685429-1713\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.1238212036062, 50.53626781119393 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164450506", "areaValue": 186, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164450506", "namespace": "CZ-00025712-CUZK_CP", "label": "1712\/1", "nationalCadastralReference": "685429-1712\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123802337658535, 50.536367440165144 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164451506", "areaValue": 111, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164451506", "namespace": "CZ-00025712-CUZK_CP", "label": "1712\/2", "nationalCadastralReference": "685429-1712\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123902645517386, 50.536347530283372 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164415506", "areaValue": 216, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164415506", "namespace": "CZ-00025712-CUZK_CP", "label": "1683\/2", "nationalCadastralReference": "685429-1683\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.124731566911613, 50.536330739856815 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164414506", "areaValue": 785, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164414506", "namespace": "CZ-00025712-CUZK_CP", "label": "1683\/1", "nationalCadastralReference": "685429-1683\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124691184341621, 50.536126519280835 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164416506", "areaValue": 204, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164416506", "namespace": "CZ-00025712-CUZK_CP", "label": "1683\/3", "nationalCadastralReference": "685429-1683\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.124732409400753, 50.53607884816671 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164418506", "areaValue": 235, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164418506", "namespace": "CZ-00025712-CUZK_CP", "label": "1685", "nationalCadastralReference": "685429-1685" }, "geometry": { "type": "Point", "coordinates": [ 14.124178398944091, 50.536163221417986 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164419506", "areaValue": 297, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164419506", "namespace": "CZ-00025712-CUZK_CP", "label": "1686", "nationalCadastralReference": "685429-1686" }, "geometry": { "type": "Point", "coordinates": [ 14.12422340330191, 50.536247913739288 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164422506", "areaValue": 157, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164422506", "namespace": "CZ-00025712-CUZK_CP", "label": "1689", "nationalCadastralReference": "685429-1689" }, "geometry": { "type": "Point", "coordinates": [ 14.124304327668881, 50.536349195995371 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164425506", "areaValue": 252, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164425506", "namespace": "CZ-00025712-CUZK_CP", "label": "1692", "nationalCadastralReference": "685429-1692" }, "geometry": { "type": "Point", "coordinates": [ 14.124246719974355, 50.536480194675285 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.2121261506", "areaValue": 162, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.2121261506", "namespace": "CZ-00025712-CUZK_CP", "label": "1740\/1", "nationalCadastralReference": "685429-1740\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122678087349044, 50.53617904929834 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.2121262506", "areaValue": 33, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.2121262506", "namespace": "CZ-00025712-CUZK_CP", "label": "1740\/2", "nationalCadastralReference": "685429-1740\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.122726159207154, 50.536240956301931 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164429506", "areaValue": 71, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164429506", "namespace": "CZ-00025712-CUZK_CP", "label": "1696\/1", "nationalCadastralReference": "685429-1696\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124026976414335, 50.536650310459436 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164432506", "areaValue": 66, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164432506", "namespace": "CZ-00025712-CUZK_CP", "label": "1696\/4", "nationalCadastralReference": "685429-1696\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.123976899984923, 50.536605747502193 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164431506", "areaValue": 50, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164431506", "namespace": "CZ-00025712-CUZK_CP", "label": "1696\/3", "nationalCadastralReference": "685429-1696\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.123935100141193, 50.536559843274524 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164430506", "areaValue": 147, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164430506", "namespace": "CZ-00025712-CUZK_CP", "label": "1696\/2", "nationalCadastralReference": "685429-1696\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123866355470669, 50.536464018594707 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164433506", "areaValue": 364, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164433506", "namespace": "CZ-00025712-CUZK_CP", "label": "1697", "nationalCadastralReference": "685429-1697" }, "geometry": { "type": "Point", "coordinates": [ 14.123869137353855, 50.536607914259662 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164434506", "areaValue": 155, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164434506", "namespace": "CZ-00025712-CUZK_CP", "label": "1698", "nationalCadastralReference": "685429-1698" }, "geometry": { "type": "Point", "coordinates": [ 14.124036868498624, 50.536776960449004 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164549506", "areaValue": 244, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164549506", "namespace": "CZ-00025712-CUZK_CP", "label": "1786", "nationalCadastralReference": "685429-1786" }, "geometry": { "type": "Point", "coordinates": [ 14.122887549792866, 50.536858344925129 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164623506", "areaValue": 2970, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1164623506", "namespace": "CZ-00025712-CUZK_CP", "label": "1838\/2", "nationalCadastralReference": "685429-1838\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.1234665574743, 50.537144878990013 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164435506", "areaValue": 183, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164435506", "namespace": "CZ-00025712-CUZK_CP", "label": "1699", "nationalCadastralReference": "685429-1699" }, "geometry": { "type": "Point", "coordinates": [ 14.123911284220798, 50.536829183315199 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164436506", "areaValue": 156, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164436506", "namespace": "CZ-00025712-CUZK_CP", "label": "1700", "nationalCadastralReference": "685429-1700" }, "geometry": { "type": "Point", "coordinates": [ 14.123769754281289, 50.536889046545973 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164444506", "areaValue": 332, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164444506", "namespace": "CZ-00025712-CUZK_CP", "label": "1708\/1", "nationalCadastralReference": "685429-1708\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123515913293055, 50.536822820012183 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164447506", "areaValue": 394, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164447506", "namespace": "CZ-00025712-CUZK_CP", "label": "1709", "nationalCadastralReference": "685429-1709" }, "geometry": { "type": "Point", "coordinates": [ 14.123570429717342, 50.536690997620525 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164424506", "areaValue": 208, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164424506", "namespace": "CZ-00025712-CUZK_CP", "label": "1691", "nationalCadastralReference": "685429-1691" }, "geometry": { "type": "Point", "coordinates": [ 14.124413619675588, 50.536620291041238 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164426506", "areaValue": 350, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164426506", "namespace": "CZ-00025712-CUZK_CP", "label": "1693", "nationalCadastralReference": "685429-1693" }, "geometry": { "type": "Point", "coordinates": [ 14.124043151401553, 50.536434578673209 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164427506", "areaValue": 154, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164427506", "namespace": "CZ-00025712-CUZK_CP", "label": "1694", "nationalCadastralReference": "685429-1694" }, "geometry": { "type": "Point", "coordinates": [ 14.124272090991322, 50.536680154879988 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164428506", "areaValue": 147, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164428506", "namespace": "CZ-00025712-CUZK_CP", "label": "1695", "nationalCadastralReference": "685429-1695" }, "geometry": { "type": "Point", "coordinates": [ 14.124160474204833, 50.536733638794828 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1583615506", "areaValue": 213, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1583615506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/67", "nationalCadastralReference": "685429-1313\/67" }, "geometry": { "type": "Point", "coordinates": [ 14.124569014809152, 50.536826903203234 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1573405506", "areaValue": 497, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1573405506", "namespace": "CZ-00025712-CUZK_CP", "label": "1785\/1", "nationalCadastralReference": "685429-1785\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122695744620263, 50.53682005379153 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1408022506", "areaValue": 388, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1408022506", "namespace": "CZ-00025712-CUZK_CP", "label": "1710\/1", "nationalCadastralReference": "685429-1710\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123712284799172, 50.536655952233119 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1408024506", "areaValue": 24, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1408024506", "namespace": "CZ-00025712-CUZK_CP", "label": "1710\/3", "nationalCadastralReference": "685429-1710\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.123619815809871, 50.536493154940032 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516447506", "areaValue": 623, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1516447506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/10", "nationalCadastralReference": "685429-1321\/10" }, "geometry": { "type": "Point", "coordinates": [ 14.125270530249248, 50.536801331707572 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1696946506", "areaValue": 139, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1696946506", "namespace": "CZ-00025712-CUZK_CP", "label": "1704\/1", "nationalCadastralReference": "685429-1704\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123404888189238, 50.536894789006901 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.2283292506", "areaValue": 255, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.2283292506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/115", "nationalCadastralReference": "685429-1313\/115" }, "geometry": { "type": "Point", "coordinates": [ 14.124896186059829, 50.537186308413673 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164701506", "areaValue": 499, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164701506", "namespace": "CZ-00025712-CUZK_CP", "label": "1914\/1", "nationalCadastralReference": "685429-1914\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123940273719475, 50.537226323207989 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164439506", "areaValue": 116, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164439506", "namespace": "CZ-00025712-CUZK_CP", "label": "1703", "nationalCadastralReference": "685429-1703" }, "geometry": { "type": "Point", "coordinates": [ 14.123496703510593, 50.537027836038526 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163908506", "areaValue": 6518, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163908506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/8", "nationalCadastralReference": "685429-1313\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.124866134601133, 50.539891043339303 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164438506", "areaValue": 81, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164438506", "namespace": "CZ-00025712-CUZK_CP", "label": "1702", "nationalCadastralReference": "685429-1702" }, "geometry": { "type": "Point", "coordinates": [ 14.123575620870177, 50.536993918956192 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164437506", "areaValue": 129, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164437506", "namespace": "CZ-00025712-CUZK_CP", "label": "1701", "nationalCadastralReference": "685429-1701" }, "geometry": { "type": "Point", "coordinates": [ 14.123658136438772, 50.536942529981054 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1579992506", "areaValue": 173, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1579992506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/87", "nationalCadastralReference": "685429-1313\/87" }, "geometry": { "type": "Point", "coordinates": [ 14.124241005625846, 50.537082858297346 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164525506", "areaValue": 589, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164525506", "namespace": "CZ-00025712-CUZK_CP", "label": "1769", "nationalCadastralReference": "685429-1769" }, "geometry": { "type": "Point", "coordinates": [ 14.121163156158993, 50.536936734357759 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516449506", "areaValue": 263, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1516449506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/12", "nationalCadastralReference": "685429-1321\/12" }, "geometry": { "type": "Point", "coordinates": [ 14.125706116637948, 50.536984472465683 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516488506", "areaValue": 89, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516488506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/18", "nationalCadastralReference": "685429-1321\/18" }, "geometry": { "type": "Point", "coordinates": [ 14.126074202375282, 50.536335248930385 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1389956506", "areaValue": 130, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1389956506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/7", "nationalCadastralReference": "685429-1321\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.125372444272532, 50.536418369271253 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1389957506", "areaValue": 63, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1389957506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/8", "nationalCadastralReference": "685429-1321\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.125584359936695, 50.536541189024298 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516448506", "areaValue": 603, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516448506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/11", "nationalCadastralReference": "685429-1321\/11" }, "geometry": { "type": "Point", "coordinates": [ 14.125605615010151, 50.536671860466257 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516450506", "areaValue": 209, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516450506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/13", "nationalCadastralReference": "685429-1321\/13" }, "geometry": { "type": "Point", "coordinates": [ 14.125701671877241, 50.536567213100462 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516465506", "areaValue": 213, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516465506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/14", "nationalCadastralReference": "685429-1321\/14" }, "geometry": { "type": "Point", "coordinates": [ 14.12581267859729, 50.536445936805116 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516485506", "areaValue": 183, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516485506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/15", "nationalCadastralReference": "685429-1321\/15" }, "geometry": { "type": "Point", "coordinates": [ 14.125450796727185, 50.536308764536415 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516566506", "areaValue": 37, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1516566506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/29", "nationalCadastralReference": "685429-1321\/29" }, "geometry": { "type": "Point", "coordinates": [ 14.125714776043917, 50.536869848508609 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516591506", "areaValue": 4144, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1516591506", "namespace": "CZ-00025712-CUZK_CP", "label": "1354\/1", "nationalCadastralReference": "685429-1354\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125712852928741, 50.535251273275207 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516585506", "areaValue": 48, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516585506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/3", "nationalCadastralReference": "685429-1326\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.12503884007968, 50.53634885091045 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163143506", "areaValue": 22, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163143506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/11", "nationalCadastralReference": "685429-749\/11" }, "geometry": { "type": "Point", "coordinates": [ 14.126198324813782, 50.536709556259886 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163142506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163142506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/10", "nationalCadastralReference": "685429-749\/10" }, "geometry": { "type": "Point", "coordinates": [ 14.126165109485516, 50.53669938538966 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163141506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163141506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/9", "nationalCadastralReference": "685429-749\/9" }, "geometry": { "type": "Point", "coordinates": [ 14.126128414904818, 50.536684996143144 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163140506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163140506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/8", "nationalCadastralReference": "685429-749\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.126093515063205, 50.53667022407005 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163139506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163139506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/7", "nationalCadastralReference": "685429-749\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.126058615243219, 50.536655451986434 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163133506", "areaValue": 321, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163133506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/1", "nationalCadastralReference": "685429-749\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126063125640709, 50.536541543200393 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163138506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163138506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/6", "nationalCadastralReference": "685429-749\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.126017215149625, 50.536642363190204 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163137506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163137506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/5", "nationalCadastralReference": "685429-749\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.125981358677061, 50.536628049531586 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163136506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163136506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/4", "nationalCadastralReference": "685429-749\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.1259452648712, 50.536614804027082 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163154506", "areaValue": 64, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163154506", "namespace": "CZ-00025712-CUZK_CP", "label": "750\/2", "nationalCadastralReference": "685429-750\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126281129436981, 50.536550413533448 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163144506", "areaValue": 23, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163144506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/12", "nationalCadastralReference": "685429-749\/12" }, "geometry": { "type": "Point", "coordinates": [ 14.126271619724896, 50.53658487603952 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163152506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163152506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/20", "nationalCadastralReference": "685429-749\/20" }, "geometry": { "type": "Point", "coordinates": [ 14.126228370172255, 50.536543563537009 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163151506", "areaValue": 17, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163151506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/19", "nationalCadastralReference": "685429-749\/19" }, "geometry": { "type": "Point", "coordinates": [ 14.126192375257615, 50.536529873039221 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163132506", "areaValue": 543, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163132506", "namespace": "CZ-00025712-CUZK_CP", "label": "748", "nationalCadastralReference": "685429-748" }, "geometry": { "type": "Point", "coordinates": [ 14.126242575484609, 50.536387945076577 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163150506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163150506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/18", "nationalCadastralReference": "685429-749\/18" }, "geometry": { "type": "Point", "coordinates": [ 14.126155562124895, 50.536516017883081 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163149506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163149506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/17", "nationalCadastralReference": "685429-749\/17" }, "geometry": { "type": "Point", "coordinates": [ 14.12612004924401, 50.536504005244822 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163148506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163148506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/16", "nationalCadastralReference": "685429-749\/16" }, "geometry": { "type": "Point", "coordinates": [ 14.126085268213581, 50.536488699085368 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163147506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163147506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/15", "nationalCadastralReference": "685429-749\/15" }, "geometry": { "type": "Point", "coordinates": [ 14.126048099116002, 50.536476446143404 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163146506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163146506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/14", "nationalCadastralReference": "685429-749\/14" }, "geometry": { "type": "Point", "coordinates": [ 14.126012586291685, 50.536464433472318 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163948506", "areaValue": 193, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163948506", "namespace": "CZ-00025712-CUZK_CP", "label": "1322\/1", "nationalCadastralReference": "685429-1322\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125845734525525, 50.535838751078643 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163122506", "areaValue": 31, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163122506", "namespace": "CZ-00025712-CUZK_CP", "label": "740\/2", "nationalCadastralReference": "685429-740\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126330686365041, 50.536114511453476 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163121506", "areaValue": 256, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163121506", "namespace": "CZ-00025712-CUZK_CP", "label": "740\/1", "nationalCadastralReference": "685429-740\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126501808925644, 50.536124053557955 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163893506", "areaValue": 1105, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163893506", "namespace": "CZ-00025712-CUZK_CP", "label": "1272\/1", "nationalCadastralReference": "685429-1272\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126177514614739, 50.537354620307404 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163922506", "areaValue": 2852, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163922506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/22", "nationalCadastralReference": "685429-1313\/22" }, "geometry": { "type": "Point", "coordinates": [ 14.124505804369079, 50.538276799203601 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1583955506", "areaValue": 272, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1583955506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/63", "nationalCadastralReference": "685429-1313\/63" }, "geometry": { "type": "Point", "coordinates": [ 14.125950442728623, 50.537258309512794 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163173506", "areaValue": 300, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163173506", "namespace": "CZ-00025712-CUZK_CP", "label": "765", "nationalCadastralReference": "685429-765" }, "geometry": { "type": "Point", "coordinates": [ 14.126192001385801, 50.537064372485176 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163172506", "areaValue": 171, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163172506", "namespace": "CZ-00025712-CUZK_CP", "label": "764", "nationalCadastralReference": "685429-764" }, "geometry": { "type": "Point", "coordinates": [ 14.125810140408669, 50.537029908355414 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163169506", "areaValue": 109, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163169506", "namespace": "CZ-00025712-CUZK_CP", "label": "761", "nationalCadastralReference": "685429-761" }, "geometry": { "type": "Point", "coordinates": [ 14.126035541929594, 50.53692086321395 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163164506", "areaValue": 178, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163164506", "namespace": "CZ-00025712-CUZK_CP", "label": "758\/1", "nationalCadastralReference": "685429-758\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126167334467114, 50.536850947992257 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163160506", "areaValue": 369, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163160506", "namespace": "CZ-00025712-CUZK_CP", "label": "754", "nationalCadastralReference": "685429-754" }, "geometry": { "type": "Point", "coordinates": [ 14.126396403652633, 50.536803613359282 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163162506", "areaValue": 25, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163162506", "namespace": "CZ-00025712-CUZK_CP", "label": "757\/1", "nationalCadastralReference": "685429-757\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126102802459011, 50.53682206090258 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163163506", "areaValue": 153, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163163506", "namespace": "CZ-00025712-CUZK_CP", "label": "757\/2", "nationalCadastralReference": "685429-757\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125988641417441, 50.536764542056972 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163170506", "areaValue": 162, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163170506", "namespace": "CZ-00025712-CUZK_CP", "label": "762", "nationalCadastralReference": "685429-762" }, "geometry": { "type": "Point", "coordinates": [ 14.125905398765019, 50.536966683862872 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163165506", "areaValue": 31, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163165506", "namespace": "CZ-00025712-CUZK_CP", "label": "758\/2", "nationalCadastralReference": "685429-758\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125951016551369, 50.536806273345654 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163161506", "areaValue": 181, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163161506", "namespace": "CZ-00025712-CUZK_CP", "label": "756", "nationalCadastralReference": "685429-756" }, "geometry": { "type": "Point", "coordinates": [ 14.125866195748028, 50.536735331016104 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163171506", "areaValue": 196, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163171506", "namespace": "CZ-00025712-CUZK_CP", "label": "763", "nationalCadastralReference": "685429-763" }, "geometry": { "type": "Point", "coordinates": [ 14.125790727372534, 50.536903126043164 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163135506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163135506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/3", "nationalCadastralReference": "685429-749\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.125908313286754, 50.536601571889953 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163134506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163134506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/2", "nationalCadastralReference": "685429-749\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125871982164876, 50.536589394527809 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163145506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163145506", "namespace": "CZ-00025712-CUZK_CP", "label": "749\/13", "nationalCadastralReference": "685429-749\/13" }, "geometry": { "type": "Point", "coordinates": [ 14.125969411446892, 50.536451638457983 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.26386988010", "areaValue": 10, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.26386988010", "namespace": "CZ-00025712-CUZK_CP", "label": "1268\/20", "nationalCadastralReference": "685429-1268\/20" }, "geometry": { "type": "Point", "coordinates": [ 14.126044314863458, 50.537221200665265 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164421506", "areaValue": 209, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164421506", "namespace": "CZ-00025712-CUZK_CP", "label": "1688", "nationalCadastralReference": "685429-1688" }, "geometry": { "type": "Point", "coordinates": [ 14.124572593548363, 50.536289604159919 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164423506", "areaValue": 732, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164423506", "namespace": "CZ-00025712-CUZK_CP", "label": "1690", "nationalCadastralReference": "685429-1690" }, "geometry": { "type": "Point", "coordinates": [ 14.124628819568571, 50.536485357816346 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163961506", "areaValue": 111, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163961506", "namespace": "CZ-00025712-CUZK_CP", "label": "1329", "nationalCadastralReference": "685429-1329" }, "geometry": { "type": "Point", "coordinates": [ 14.124906781692532, 50.536309691123279 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163960506", "areaValue": 229, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163960506", "namespace": "CZ-00025712-CUZK_CP", "label": "1328", "nationalCadastralReference": "685429-1328" }, "geometry": { "type": "Point", "coordinates": [ 14.125016445307145, 50.536427186722293 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163929506", "areaValue": 972, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163929506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/29", "nationalCadastralReference": "685429-1313\/29" }, "geometry": { "type": "Point", "coordinates": [ 14.124448414782213, 50.537004788626774 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163927506", "areaValue": 876, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163927506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/27", "nationalCadastralReference": "685429-1313\/27" }, "geometry": { "type": "Point", "coordinates": [ 14.124800391769012, 50.536966008932126 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163926506", "areaValue": 101, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163926506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/26", "nationalCadastralReference": "685429-1313\/26" }, "geometry": { "type": "Point", "coordinates": [ 14.125138443514219, 50.537127726908537 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163928506", "areaValue": 599, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163928506", "namespace": "CZ-00025712-CUZK_CP", "label": "1313\/28", "nationalCadastralReference": "685429-1313\/28" }, "geometry": { "type": "Point", "coordinates": [ 14.124833901011742, 50.536751115638566 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163940506", "areaValue": 53, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163940506", "namespace": "CZ-00025712-CUZK_CP", "label": "1320\/1", "nationalCadastralReference": "685429-1320\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125425769629283, 50.536576541997078 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163941506", "areaValue": 200, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163941506", "namespace": "CZ-00025712-CUZK_CP", "label": "1320\/2", "nationalCadastralReference": "685429-1320\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125459989375754, 50.536485381221389 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163942506", "areaValue": 169, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163942506", "namespace": "CZ-00025712-CUZK_CP", "label": "1320\/3", "nationalCadastralReference": "685429-1320\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.125587428246869, 50.536360685099737 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163939506", "areaValue": 535, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163939506", "namespace": "CZ-00025712-CUZK_CP", "label": "1319", "nationalCadastralReference": "685429-1319" }, "geometry": { "type": "Point", "coordinates": [ 14.125599829557713, 50.536776755946192 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163885506", "areaValue": 1364, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.1163885506", "namespace": "CZ-00025712-CUZK_CP", "label": "1268\/3", "nationalCadastralReference": "685429-1268\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.125630879180804, 50.537106344012962 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.26386987010", "areaValue": 124, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.26386987010", "namespace": "CZ-00025712-CUZK_CP", "label": "1268\/19", "nationalCadastralReference": "685429-1268\/19" }, "geometry": { "type": "Point", "coordinates": [ 14.125531297117483, 50.537046690218418 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.26386991010", "areaValue": 14, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-06T11:46:27Z", "localId": "CP.26386991010", "namespace": "CZ-00025712-CUZK_CP", "label": "1268\/23", "nationalCadastralReference": "685429-1268\/23" }, "geometry": { "type": "Point", "coordinates": [ 14.125011332489432, 50.536836138473447 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163015506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163015506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/16", "nationalCadastralReference": "685429-680\/16" }, "geometry": { "type": "Point", "coordinates": [ 14.126367874351592, 50.534898165901701 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516404506", "areaValue": 127, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516404506", "namespace": "CZ-00025712-CUZK_CP", "label": "722\/4", "nationalCadastralReference": "685429-722\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.126533354920328, 50.535535164310339 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516500506", "areaValue": 292, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516500506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/25", "nationalCadastralReference": "685429-1321\/25" }, "geometry": { "type": "Point", "coordinates": [ 14.126266893193481, 50.53546035884041 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516565506", "areaValue": 58, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516565506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/28", "nationalCadastralReference": "685429-1321\/28" }, "geometry": { "type": "Point", "coordinates": [ 14.126497811693598, 50.535278355161694 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163952506", "areaValue": 165, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163952506", "namespace": "CZ-00025712-CUZK_CP", "label": "1323\/1", "nationalCadastralReference": "685429-1323\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126088172220001, 50.535325372585262 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163954506", "areaValue": 91, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163954506", "namespace": "CZ-00025712-CUZK_CP", "label": "1323\/3", "nationalCadastralReference": "685429-1323\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.126175806053189, 50.535251562945014 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163953506", "areaValue": 159, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163953506", "namespace": "CZ-00025712-CUZK_CP", "label": "1323\/2", "nationalCadastralReference": "685429-1323\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125960737422856, 50.535450069281389 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516505506", "areaValue": 949, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516505506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/27", "nationalCadastralReference": "685429-1321\/27" }, "geometry": { "type": "Point", "coordinates": [ 14.12604932537378, 50.535102677690212 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516501506", "areaValue": 271, "areaValue_uom": "m2", "beginLifespanVersion": "2012-11-07T11:26:28Z", "localId": "CP.1516501506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/26", "nationalCadastralReference": "685429-1321\/26" }, "geometry": { "type": "Point", "coordinates": [ 14.125926105368068, 50.535271883037311 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163004506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163004506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/5", "nationalCadastralReference": "685429-680\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.126299218328926, 50.535068664134499 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163005506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163005506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/6", "nationalCadastralReference": "685429-680\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.126268368701831, 50.535053621958546 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163006506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163006506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/7", "nationalCadastralReference": "685429-680\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.126232632024252, 50.535038774284601 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163007506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163007506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/8", "nationalCadastralReference": "685429-680\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.126199844469793, 50.535022195194607 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163008506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163008506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/9", "nationalCadastralReference": "685429-680\/9" }, "geometry": { "type": "Point", "coordinates": [ 14.126164168388323, 50.535007716160415 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163009506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163009506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/10", "nationalCadastralReference": "685429-680\/10" }, "geometry": { "type": "Point", "coordinates": [ 14.126126221774143, 50.53499512056041 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163983506", "areaValue": 433, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163983506", "namespace": "CZ-00025712-CUZK_CP", "label": "1350", "nationalCadastralReference": "685429-1350" }, "geometry": { "type": "Point", "coordinates": [ 14.125574239720008, 50.535110190606332 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163985506", "areaValue": 141, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163985506", "namespace": "CZ-00025712-CUZK_CP", "label": "1352", "nationalCadastralReference": "685429-1352" }, "geometry": { "type": "Point", "coordinates": [ 14.125358963653207, 50.534937127360806 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163984506", "areaValue": 230, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163984506", "namespace": "CZ-00025712-CUZK_CP", "label": "1351", "nationalCadastralReference": "685429-1351" }, "geometry": { "type": "Point", "coordinates": [ 14.12561985356894, 50.534969029233743 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163987506", "areaValue": 287, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163987506", "namespace": "CZ-00025712-CUZK_CP", "label": "1353\/2", "nationalCadastralReference": "685429-1353\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.125679753014969, 50.534787298919596 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163986506", "areaValue": 120, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163986506", "namespace": "CZ-00025712-CUZK_CP", "label": "1353\/1", "nationalCadastralReference": "685429-1353\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.125620792808878, 50.534885942067554 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163978506", "areaValue": 333, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163978506", "namespace": "CZ-00025712-CUZK_CP", "label": "1345", "nationalCadastralReference": "685429-1345" }, "geometry": { "type": "Point", "coordinates": [ 14.124869074527641, 50.534868936528454 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163979506", "areaValue": 1383, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163979506", "namespace": "CZ-00025712-CUZK_CP", "label": "1346", "nationalCadastralReference": "685429-1346" }, "geometry": { "type": "Point", "coordinates": [ 14.124893075776612, 50.535124432792614 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163980506", "areaValue": 296, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163980506", "namespace": "CZ-00025712-CUZK_CP", "label": "1347", "nationalCadastralReference": "685429-1347" }, "geometry": { "type": "Point", "coordinates": [ 14.12484595684762, 50.535283254871402 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163981506", "areaValue": 275, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163981506", "namespace": "CZ-00025712-CUZK_CP", "label": "1348", "nationalCadastralReference": "685429-1348" }, "geometry": { "type": "Point", "coordinates": [ 14.125061042452637, 50.535228940802796 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163982506", "areaValue": 189, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163982506", "namespace": "CZ-00025712-CUZK_CP", "label": "1349", "nationalCadastralReference": "685429-1349" }, "geometry": { "type": "Point", "coordinates": [ 14.125297127960206, 50.535203216837239 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1511805506", "areaValue": 2223, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1511805506", "namespace": "CZ-00025712-CUZK_CP", "label": "1344\/1", "nationalCadastralReference": "685429-1344\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124788658096417, 50.534729473875487 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164357506", "areaValue": 111, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164357506", "namespace": "CZ-00025712-CUZK_CP", "label": "1640\/1", "nationalCadastralReference": "685429-1640\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122315325507039, 50.53509792472596 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164356506", "areaValue": 703, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164356506", "namespace": "CZ-00025712-CUZK_CP", "label": "1639", "nationalCadastralReference": "685429-1639" }, "geometry": { "type": "Point", "coordinates": [ 14.122587333474534, 50.534873420435417 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164351506", "areaValue": 113, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164351506", "namespace": "CZ-00025712-CUZK_CP", "label": "1638\/1", "nationalCadastralReference": "685429-1638\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122185009927229, 50.534775986913992 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164350506", "areaValue": 717, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164350506", "namespace": "CZ-00025712-CUZK_CP", "label": "1637", "nationalCadastralReference": "685429-1637" }, "geometry": { "type": "Point", "coordinates": [ 14.122487231607575, 50.534558478557031 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164368506", "areaValue": 43, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164368506", "namespace": "CZ-00025712-CUZK_CP", "label": "1646\/2", "nationalCadastralReference": "685429-1646\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123209170699466, 50.535012008525655 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164373506", "areaValue": 180, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164373506", "namespace": "CZ-00025712-CUZK_CP", "label": "1650", "nationalCadastralReference": "685429-1650" }, "geometry": { "type": "Point", "coordinates": [ 14.123392082229195, 50.535174255006559 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164371506", "areaValue": 135, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164371506", "namespace": "CZ-00025712-CUZK_CP", "label": "1649\/1", "nationalCadastralReference": "685429-1649\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123377546572858, 50.535070430150547 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164372506", "areaValue": 60, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164372506", "namespace": "CZ-00025712-CUZK_CP", "label": "1649\/2", "nationalCadastralReference": "685429-1649\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123281280142246, 50.535106140135078 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164366506", "areaValue": 281, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164366506", "namespace": "CZ-00025712-CUZK_CP", "label": "1645", "nationalCadastralReference": "685429-1645" }, "geometry": { "type": "Point", "coordinates": [ 14.123206180363534, 50.534872906135021 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164367506", "areaValue": 318, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164367506", "namespace": "CZ-00025712-CUZK_CP", "label": "1646\/1", "nationalCadastralReference": "685429-1646\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.12334580211988, 50.534970318038376 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164374506", "areaValue": 221, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164374506", "namespace": "CZ-00025712-CUZK_CP", "label": "1651", "nationalCadastralReference": "685429-1651" }, "geometry": { "type": "Point", "coordinates": [ 14.123728754456355, 50.53509723341994 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164370506", "areaValue": 194, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164370506", "namespace": "CZ-00025712-CUZK_CP", "label": "1648", "nationalCadastralReference": "685429-1648" }, "geometry": { "type": "Point", "coordinates": [ 14.123658970913228, 50.5350099404993 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164349506", "areaValue": 221, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164349506", "namespace": "CZ-00025712-CUZK_CP", "label": "1636", "nationalCadastralReference": "685429-1636" }, "geometry": { "type": "Point", "coordinates": [ 14.12315019777402, 50.534642759946799 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164369506", "areaValue": 179, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164369506", "namespace": "CZ-00025712-CUZK_CP", "label": "1647", "nationalCadastralReference": "685429-1647" }, "geometry": { "type": "Point", "coordinates": [ 14.123612878570757, 50.534896820088356 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164345506", "areaValue": 244, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164345506", "namespace": "CZ-00025712-CUZK_CP", "label": "1632", "nationalCadastralReference": "685429-1632" }, "geometry": { "type": "Point", "coordinates": [ 14.123102522299616, 50.534557280900685 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164365506", "areaValue": 260, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164365506", "namespace": "CZ-00025712-CUZK_CP", "label": "1644", "nationalCadastralReference": "685429-1644" }, "geometry": { "type": "Point", "coordinates": [ 14.123534897004349, 50.534798980598808 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164348506", "areaValue": 141, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164348506", "namespace": "CZ-00025712-CUZK_CP", "label": "1635", "nationalCadastralReference": "685429-1635" }, "geometry": { "type": "Point", "coordinates": [ 14.123466689516581, 50.534593064085101 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1513907506", "areaValue": 1699, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1513907506", "namespace": "CZ-00025712-CUZK_CP", "label": "1386\/1", "nationalCadastralReference": "685429-1386\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123758705393918, 50.534415673033536 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163989506", "areaValue": 98, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163989506", "namespace": "CZ-00025712-CUZK_CP", "label": "1355", "nationalCadastralReference": "685429-1355" }, "geometry": { "type": "Point", "coordinates": [ 14.125928378812684, 50.534790399501553 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163012506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163012506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/13", "nationalCadastralReference": "685429-680\/13" }, "geometry": { "type": "Point", "coordinates": [ 14.126262742271585, 50.534855172435996 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163013506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163013506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/14", "nationalCadastralReference": "685429-680\/14" }, "geometry": { "type": "Point", "coordinates": [ 14.1262971798454, 50.534868813275835 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163014506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163014506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/15", "nationalCadastralReference": "685429-680\/15" }, "geometry": { "type": "Point", "coordinates": [ 14.12633176319329, 50.534885645223326 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164014506", "areaValue": 697, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164014506", "namespace": "CZ-00025712-CUZK_CP", "label": "1383", "nationalCadastralReference": "685429-1383" }, "geometry": { "type": "Point", "coordinates": [ 14.124442634968316, 50.534572935451529 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165868506", "areaValue": 1882, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1165868506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/3", "nationalCadastralReference": "685429-2563\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.120821242704205, 50.534676995814479 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165887506", "areaValue": 122, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1165887506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/22", "nationalCadastralReference": "685429-2563\/22" }, "geometry": { "type": "Point", "coordinates": [ 14.121921804472944, 50.53450070634247 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164306506", "areaValue": 2634, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164306506", "namespace": "CZ-00025712-CUZK_CP", "label": "1608\/1", "nationalCadastralReference": "685429-1608\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.121691167452614, 50.533879603725737 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163125506", "areaValue": 244, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163125506", "namespace": "CZ-00025712-CUZK_CP", "label": "743\/1", "nationalCadastralReference": "685429-743\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126445223686479, 50.536202390869867 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163126506", "areaValue": 30, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163126506", "namespace": "CZ-00025712-CUZK_CP", "label": "743\/2", "nationalCadastralReference": "685429-743\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126304933222835, 50.536146418365682 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163127506", "areaValue": 304, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163127506", "namespace": "CZ-00025712-CUZK_CP", "label": "744\/1", "nationalCadastralReference": "685429-744\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126496227100953, 50.536323579713098 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163128506", "areaValue": 29, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163128506", "namespace": "CZ-00025712-CUZK_CP", "label": "744\/2", "nationalCadastralReference": "685429-744\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126252501495831, 50.53619580242929 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163027506", "areaValue": 1644, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163027506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/1", "nationalCadastralReference": "685429-681\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126860105154835, 50.535134721032811 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163032506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163032506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/6", "nationalCadastralReference": "685429-681\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.126573404157044, 50.535032393417197 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163031506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163031506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/5", "nationalCadastralReference": "685429-681\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.126546437012955, 50.535055020069208 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163030506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163030506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/4", "nationalCadastralReference": "685429-681\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.126537506226445, 50.535089444017729 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163034506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163034506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/8", "nationalCadastralReference": "685429-681\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.126624888613449, 50.534989188971792 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163020506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163020506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/21", "nationalCadastralReference": "685429-680\/21" }, "geometry": { "type": "Point", "coordinates": [ 14.126547674245668, 50.534847474648515 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163033506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163033506", "namespace": "CZ-00025712-CUZK_CP", "label": "681\/7", "nationalCadastralReference": "685429-681\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.126600772936827, 50.535011164992852 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163000506", "areaValue": 633, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163000506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/1", "nationalCadastralReference": "685429-680\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.126214520109501, 50.534914470199965 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163019506", "areaValue": 21, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163019506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/20", "nationalCadastralReference": "685429-680\/20" }, "geometry": { "type": "Point", "coordinates": [ 14.126513418739066, 50.53486635632882 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163017506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163017506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/18", "nationalCadastralReference": "685429-680\/18" }, "geometry": { "type": "Point", "coordinates": [ 14.126436197077506, 50.534928575600119 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163018506", "areaValue": 22, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163018506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/19", "nationalCadastralReference": "685429-680\/19" }, "geometry": { "type": "Point", "coordinates": [ 14.126472974384207, 50.534945151514805 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163097506", "areaValue": 333, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163097506", "namespace": "CZ-00025712-CUZK_CP", "label": "720", "nationalCadastralReference": "685429-720" }, "geometry": { "type": "Point", "coordinates": [ 14.126596668490782, 50.535325231097879 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163003506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163003506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/4", "nationalCadastralReference": "685429-680\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.126334178827305, 50.535084440519029 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163002506", "areaValue": 18, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163002506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/3", "nationalCadastralReference": "685429-680\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.126368738911955, 50.535099454360633 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163001506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163001506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/2", "nationalCadastralReference": "685429-680\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.126400330141141, 50.535116288615875 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163098506", "areaValue": 248, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163098506", "namespace": "CZ-00025712-CUZK_CP", "label": "721", "nationalCadastralReference": "685429-721" }, "geometry": { "type": "Point", "coordinates": [ 14.126452227943904, 50.535444398265355 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163105506", "areaValue": 450, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163105506", "namespace": "CZ-00025712-CUZK_CP", "label": "728", "nationalCadastralReference": "685429-728" }, "geometry": { "type": "Point", "coordinates": [ 14.126478140365956, 50.535693255917501 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516498506", "areaValue": 230, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516498506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/24", "nationalCadastralReference": "685429-1321\/24" }, "geometry": { "type": "Point", "coordinates": [ 14.126142487527257, 50.5357503108036 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164377506", "areaValue": 691, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164377506", "namespace": "CZ-00025712-CUZK_CP", "label": "1654", "nationalCadastralReference": "685429-1654" }, "geometry": { "type": "Point", "coordinates": [ 14.122738173423595, 50.535192125785912 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164378506", "areaValue": 121, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164378506", "namespace": "CZ-00025712-CUZK_CP", "label": "1655\/1", "nationalCadastralReference": "685429-1655\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.12246985268172, 50.535415419822662 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164376506", "areaValue": 264, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164376506", "namespace": "CZ-00025712-CUZK_CP", "label": "1653", "nationalCadastralReference": "685429-1653" }, "geometry": { "type": "Point", "coordinates": [ 14.123453853511187, 50.535265546338529 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164383506", "areaValue": 705, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164383506", "namespace": "CZ-00025712-CUZK_CP", "label": "1656", "nationalCadastralReference": "685429-1656" }, "geometry": { "type": "Point", "coordinates": [ 14.122911584119086, 50.535503516130412 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164375506", "areaValue": 164, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164375506", "namespace": "CZ-00025712-CUZK_CP", "label": "1652", "nationalCadastralReference": "685429-1652" }, "geometry": { "type": "Point", "coordinates": [ 14.123778970933033, 50.535175132688167 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164388506", "areaValue": 100, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164388506", "namespace": "CZ-00025712-CUZK_CP", "label": "1660", "nationalCadastralReference": "685429-1660" }, "geometry": { "type": "Point", "coordinates": [ 14.123530777549474, 50.535534810441447 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164387506", "areaValue": 106, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164387506", "namespace": "CZ-00025712-CUZK_CP", "label": "1659", "nationalCadastralReference": "685429-1659" }, "geometry": { "type": "Point", "coordinates": [ 14.123395186149322, 50.53556796921697 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164390506", "areaValue": 215, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164390506", "namespace": "CZ-00025712-CUZK_CP", "label": "1662", "nationalCadastralReference": "685429-1662" }, "geometry": { "type": "Point", "coordinates": [ 14.123736198007226, 50.535613101104587 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1513908506", "areaValue": 284, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1513908506", "namespace": "CZ-00025712-CUZK_CP", "label": "1386\/2", "nationalCadastralReference": "685429-1386\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.124240402518245, 50.53535407653191 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542520506", "areaValue": 2, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1542520506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/8", "nationalCadastralReference": "685429-1634\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.124176874414355, 50.535582876321612 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542521506", "areaValue": 152, "areaValue_uom": "m2", "beginLifespanVersion": "2013-03-01T12:26:29Z", "localId": "CP.1542521506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/9", "nationalCadastralReference": "685429-1634\/9" }, "geometry": { "type": "Point", "coordinates": [ 14.124280779090665, 50.535588442371193 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542519506", "areaValue": 2, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1542519506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/7", "nationalCadastralReference": "685429-1634\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.124456659258346, 50.535615033412363 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164320506", "areaValue": 118, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164320506", "namespace": "CZ-00025712-CUZK_CP", "label": "1613\/1", "nationalCadastralReference": "685429-1613\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122070830652362, 50.534451964561036 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164314506", "areaValue": 2069, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164314506", "namespace": "CZ-00025712-CUZK_CP", "label": "1610", "nationalCadastralReference": "685429-1610" }, "geometry": { "type": "Point", "coordinates": [ 14.122531322420064, 50.53576700696425 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164363506", "areaValue": 255, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164363506", "namespace": "CZ-00025712-CUZK_CP", "label": "1642", "nationalCadastralReference": "685429-1642" }, "geometry": { "type": "Point", "coordinates": [ 14.123152906831571, 50.534748513552849 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164362506", "areaValue": 7901, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164362506", "namespace": "CZ-00025712-CUZK_CP", "label": "1641", "nationalCadastralReference": "685429-1641" }, "geometry": { "type": "Point", "coordinates": [ 14.12247606521697, 50.534767671492283 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164364506", "areaValue": 290, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164364506", "namespace": "CZ-00025712-CUZK_CP", "label": "1643", "nationalCadastralReference": "685429-1643" }, "geometry": { "type": "Point", "coordinates": [ 14.123482036335611, 50.534693239394933 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163016506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163016506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/17", "nationalCadastralReference": "685429-680\/17" }, "geometry": { "type": "Point", "coordinates": [ 14.126402714860077, 50.534913840647526 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163023506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163023506", "namespace": "CZ-00025712-CUZK_CP", "label": "680\/24", "nationalCadastralReference": "685429-680\/24" }, "geometry": { "type": "Point", "coordinates": [ 14.126089068754855, 50.534980235799772 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1513886506", "areaValue": 846, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1513886506", "namespace": "CZ-00025712-CUZK_CP", "label": "1384\/1", "nationalCadastralReference": "685429-1384\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124520057306984, 50.535073327639964 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1165886506", "areaValue": 8529, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1165886506", "namespace": "CZ-00025712-CUZK_CP", "label": "2563\/21", "nationalCadastralReference": "685429-2563\/21" }, "geometry": { "type": "Point", "coordinates": [ 14.12074981618202, 50.53429399844206 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164312506", "areaValue": 1940, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164312506", "namespace": "CZ-00025712-CUZK_CP", "label": "1609\/2", "nationalCadastralReference": "685429-1609\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.121415819097114, 50.534252443552639 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542513506", "areaValue": 4085, "areaValue_uom": "m2", "beginLifespanVersion": "2012-11-06T07:56:31Z", "localId": "CP.1542513506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/1", "nationalCadastralReference": "685429-1634\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123675748785049, 50.534635091609232 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542517506", "areaValue": 417, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1542517506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/5", "nationalCadastralReference": "685429-1634\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.123245155898935, 50.533771304198076 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163959506", "areaValue": 422, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163959506", "namespace": "CZ-00025712-CUZK_CP", "label": "1327", "nationalCadastralReference": "685429-1327" }, "geometry": { "type": "Point", "coordinates": [ 14.125279192831892, 50.535908378205406 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163970506", "areaValue": 135, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163970506", "namespace": "CZ-00025712-CUZK_CP", "label": "1337", "nationalCadastralReference": "685429-1337" }, "geometry": { "type": "Point", "coordinates": [ 14.124843300252925, 50.535726024292167 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163968506", "areaValue": 175, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163968506", "namespace": "CZ-00025712-CUZK_CP", "label": "1335", "nationalCadastralReference": "685429-1335" }, "geometry": { "type": "Point", "coordinates": [ 14.124907780865295, 50.535813473115653 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163969506", "areaValue": 186, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163969506", "namespace": "CZ-00025712-CUZK_CP", "label": "1336", "nationalCadastralReference": "685429-1336" }, "geometry": { "type": "Point", "coordinates": [ 14.124605402737847, 50.535765657914801 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163967506", "areaValue": 188, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163967506", "namespace": "CZ-00025712-CUZK_CP", "label": "1334", "nationalCadastralReference": "685429-1334" }, "geometry": { "type": "Point", "coordinates": [ 14.12467622669428, 50.535863667410652 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163966506", "areaValue": 365, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163966506", "namespace": "CZ-00025712-CUZK_CP", "label": "1333", "nationalCadastralReference": "685429-1333" }, "geometry": { "type": "Point", "coordinates": [ 14.124735755251589, 50.535959295253321 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163964506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163964506", "namespace": "CZ-00025712-CUZK_CP", "label": "1331\/2", "nationalCadastralReference": "685429-1331\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.124991426620358, 50.536151259862535 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163965506", "areaValue": 234, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163965506", "namespace": "CZ-00025712-CUZK_CP", "label": "1332", "nationalCadastralReference": "685429-1332" }, "geometry": { "type": "Point", "coordinates": [ 14.12478434377576, 50.536061199466722 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163963506", "areaValue": 181, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163963506", "namespace": "CZ-00025712-CUZK_CP", "label": "1331\/1", "nationalCadastralReference": "685429-1331\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124821019980129, 50.536140418168877 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163962506", "areaValue": 149, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163962506", "namespace": "CZ-00025712-CUZK_CP", "label": "1330", "nationalCadastralReference": "685429-1330" }, "geometry": { "type": "Point", "coordinates": [ 14.124873026266291, 50.536224380178851 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164420506", "areaValue": 178, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164420506", "namespace": "CZ-00025712-CUZK_CP", "label": "1687", "nationalCadastralReference": "685429-1687" }, "geometry": { "type": "Point", "coordinates": [ 14.124510552749644, 50.536184124759856 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164417506", "areaValue": 155, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164417506", "namespace": "CZ-00025712-CUZK_CP", "label": "1684", "nationalCadastralReference": "685429-1684" }, "geometry": { "type": "Point", "coordinates": [ 14.124458522592588, 50.536097708790628 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164413506", "areaValue": 124, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164413506", "namespace": "CZ-00025712-CUZK_CP", "label": "1682", "nationalCadastralReference": "685429-1682" }, "geometry": { "type": "Point", "coordinates": [ 14.124418481178742, 50.53602145491439 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164410506", "areaValue": 137, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164410506", "namespace": "CZ-00025712-CUZK_CP", "label": "1679", "nationalCadastralReference": "685429-1679" }, "geometry": { "type": "Point", "coordinates": [ 14.124378695870904, 50.535943408144256 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164409506", "areaValue": 189, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164409506", "namespace": "CZ-00025712-CUZK_CP", "label": "1678", "nationalCadastralReference": "685429-1678" }, "geometry": { "type": "Point", "coordinates": [ 14.124326410239929, 50.535858784987362 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164412506", "areaValue": 204, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164412506", "namespace": "CZ-00025712-CUZK_CP", "label": "1681", "nationalCadastralReference": "685429-1681" }, "geometry": { "type": "Point", "coordinates": [ 14.124134271555327, 50.536088686949 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164411506", "areaValue": 227, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164411506", "namespace": "CZ-00025712-CUZK_CP", "label": "1680", "nationalCadastralReference": "685429-1680" }, "geometry": { "type": "Point", "coordinates": [ 14.124094230668215, 50.536012432960632 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164403506", "areaValue": 59, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164403506", "namespace": "CZ-00025712-CUZK_CP", "label": "1673\/1", "nationalCadastralReference": "685429-1673\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.124064155518885, 50.535728512551742 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164404506", "areaValue": 28, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164404506", "namespace": "CZ-00025712-CUZK_CP", "label": "1673\/2", "nationalCadastralReference": "685429-1673\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.124048176935432, 50.535739509629842 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164405506", "areaValue": 130, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164405506", "namespace": "CZ-00025712-CUZK_CP", "label": "1674", "nationalCadastralReference": "685429-1674" }, "geometry": { "type": "Point", "coordinates": [ 14.124234339933221, 50.535696114978769 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164406506", "areaValue": 126, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164406506", "namespace": "CZ-00025712-CUZK_CP", "label": "1675", "nationalCadastralReference": "685429-1675" }, "geometry": { "type": "Point", "coordinates": [ 14.124288347474012, 50.535773629708267 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164407506", "areaValue": 90, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164407506", "namespace": "CZ-00025712-CUZK_CP", "label": "1676", "nationalCadastralReference": "685429-1676" }, "geometry": { "type": "Point", "coordinates": [ 14.124109819216578, 50.535814081698724 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164408506", "areaValue": 119, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164408506", "namespace": "CZ-00025712-CUZK_CP", "label": "1677", "nationalCadastralReference": "685429-1677" }, "geometry": { "type": "Point", "coordinates": [ 14.124115991693269, 50.535914518133524 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1171588506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1171588506", "namespace": "CZ-00025712-CUZK_CP", "label": "5495", "nationalCadastralReference": "685429-5495" }, "geometry": { "type": "Point", "coordinates": [ 14.124993984475671, 50.536185268023772 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516486506", "areaValue": 249, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516486506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/16", "nationalCadastralReference": "685429-1321\/16" }, "geometry": { "type": "Point", "coordinates": [ 14.125528697122952, 50.536129385309579 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516586506", "areaValue": 145, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516586506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/4", "nationalCadastralReference": "685429-1326\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.125196131611972, 50.53613341745168 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516587506", "areaValue": 16, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516587506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/5", "nationalCadastralReference": "685429-1326\/5" }, "geometry": { "type": "Point", "coordinates": [ 14.125373545560617, 50.536010145248731 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516588506", "areaValue": 15, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516588506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/6", "nationalCadastralReference": "685429-1326\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.125457134503417, 50.535842992604316 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516589506", "areaValue": 285, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516589506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/7", "nationalCadastralReference": "685429-1326\/7" }, "geometry": { "type": "Point", "coordinates": [ 14.125137840277603, 50.535785389271638 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164467506", "areaValue": 85, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164467506", "namespace": "CZ-00025712-CUZK_CP", "label": "1726", "nationalCadastralReference": "685429-1726" }, "geometry": { "type": "Point", "coordinates": [ 14.123422305959858, 50.536110674139088 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164466506", "areaValue": 347, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164466506", "namespace": "CZ-00025712-CUZK_CP", "label": "1725", "nationalCadastralReference": "685429-1725" }, "geometry": { "type": "Point", "coordinates": [ 14.123442905075768, 50.535987866172576 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164460506", "areaValue": 208, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164460506", "namespace": "CZ-00025712-CUZK_CP", "label": "1720", "nationalCadastralReference": "685429-1720" }, "geometry": { "type": "Point", "coordinates": [ 14.12372983966444, 50.536109018062604 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164465506", "areaValue": 20, "areaValue_uom": "m2", "beginLifespanVersion": "2012-09-01T10:46:29Z", "localId": "CP.1164465506", "namespace": "CZ-00025712-CUZK_CP", "label": "1724\/2", "nationalCadastralReference": "685429-1724\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123601894788298, 50.536060330854156 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164464506", "areaValue": 82, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164464506", "namespace": "CZ-00025712-CUZK_CP", "label": "1724\/1", "nationalCadastralReference": "685429-1724\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123649482763016, 50.536054548160955 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164384506", "areaValue": 274, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164384506", "namespace": "CZ-00025712-CUZK_CP", "label": "1657\/1", "nationalCadastralReference": "685429-1657\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.122762121814871, 50.535825980447811 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164463506", "areaValue": 279, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164463506", "namespace": "CZ-00025712-CUZK_CP", "label": "1723", "nationalCadastralReference": "685429-1723" }, "geometry": { "type": "Point", "coordinates": [ 14.123578379516928, 50.535891137102709 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164385506", "areaValue": 521, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164385506", "namespace": "CZ-00025712-CUZK_CP", "label": "1657\/2", "nationalCadastralReference": "685429-1657\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123098164782085, 50.535783225561282 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164386506", "areaValue": 147, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164386506", "namespace": "CZ-00025712-CUZK_CP", "label": "1658", "nationalCadastralReference": "685429-1658" }, "geometry": { "type": "Point", "coordinates": [ 14.123466716540628, 50.535682659777471 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164389506", "areaValue": 145, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164389506", "namespace": "CZ-00025712-CUZK_CP", "label": "1661", "nationalCadastralReference": "685429-1661" }, "geometry": { "type": "Point", "coordinates": [ 14.123602308216915, 50.53564950091971 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164462506", "areaValue": 110, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164462506", "namespace": "CZ-00025712-CUZK_CP", "label": "1722", "nationalCadastralReference": "685429-1722" }, "geometry": { "type": "Point", "coordinates": [ 14.123701983346077, 50.535847815924981 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164461506", "areaValue": 108, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164461506", "namespace": "CZ-00025712-CUZK_CP", "label": "1721", "nationalCadastralReference": "685429-1721" }, "geometry": { "type": "Point", "coordinates": [ 14.123776951970743, 50.535965631346457 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164399506", "areaValue": 122, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164399506", "namespace": "CZ-00025712-CUZK_CP", "label": "1669", "nationalCadastralReference": "685429-1669" }, "geometry": { "type": "Point", "coordinates": [ 14.123807663605984, 50.535821036466587 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164400506", "areaValue": 120, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164400506", "namespace": "CZ-00025712-CUZK_CP", "label": "1670", "nationalCadastralReference": "685429-1670" }, "geometry": { "type": "Point", "coordinates": [ 14.123882632449456, 50.535938851820951 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164402506", "areaValue": 151, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164402506", "namespace": "CZ-00025712-CUZK_CP", "label": "1672", "nationalCadastralReference": "685429-1672" }, "geometry": { "type": "Point", "coordinates": [ 14.123915322050189, 50.535785355567747 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164401506", "areaValue": 113, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164401506", "namespace": "CZ-00025712-CUZK_CP", "label": "1671", "nationalCadastralReference": "685429-1671" }, "geometry": { "type": "Point", "coordinates": [ 14.123986888436328, 50.535918481169297 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516487506", "areaValue": 764, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516487506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/17", "nationalCadastralReference": "685429-1321\/17" }, "geometry": { "type": "Point", "coordinates": [ 14.1258170938709, 50.536218974638551 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516490506", "areaValue": 570, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516490506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/19", "nationalCadastralReference": "685429-1321\/19" }, "geometry": { "type": "Point", "coordinates": [ 14.125961260600622, 50.536090158513687 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163950506", "areaValue": 101, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163950506", "namespace": "CZ-00025712-CUZK_CP", "label": "1322\/3", "nationalCadastralReference": "685429-1322\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.125666548208812, 50.536004630201653 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516491506", "areaValue": 78, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516491506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/20", "nationalCadastralReference": "685429-1321\/20" }, "geometry": { "type": "Point", "coordinates": [ 14.125617756750284, 50.535922865591026 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163949506", "areaValue": 121, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163949506", "namespace": "CZ-00025712-CUZK_CP", "label": "1322\/2", "nationalCadastralReference": "685429-1322\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.12574011705248, 50.53592936964742 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516493506", "areaValue": 79, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516493506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/21", "nationalCadastralReference": "685429-1321\/21" }, "geometry": { "type": "Point", "coordinates": [ 14.125665411555147, 50.535847536089896 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516495506", "areaValue": 117, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516495506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/22", "nationalCadastralReference": "685429-1321\/22" }, "geometry": { "type": "Point", "coordinates": [ 14.12573807802254, 50.535738507672022 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516497506", "areaValue": 1018, "areaValue_uom": "m2", "beginLifespanVersion": "2013-07-03T07:46:27Z", "localId": "CP.1516497506", "namespace": "CZ-00025712-CUZK_CP", "label": "1321\/23", "nationalCadastralReference": "685429-1321\/23" }, "geometry": { "type": "Point", "coordinates": [ 14.126155896646212, 50.535950279922673 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164391506", "areaValue": 155, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164391506", "namespace": "CZ-00025712-CUZK_CP", "label": "1663\/1", "nationalCadastralReference": "685429-1663\/1" }, "geometry": { "type": "Point", "coordinates": [ 14.123480653737429, 50.535345599339962 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164392506", "areaValue": 183, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164392506", "namespace": "CZ-00025712-CUZK_CP", "label": "1663\/2", "nationalCadastralReference": "685429-1663\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.123611068042544, 50.535414576482047 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164393506", "areaValue": 83, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164393506", "namespace": "CZ-00025712-CUZK_CP", "label": "1663\/3", "nationalCadastralReference": "685429-1663\/3" }, "geometry": { "type": "Point", "coordinates": [ 14.123483404955905, 50.535430654381017 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164394506", "areaValue": 186, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164394506", "namespace": "CZ-00025712-CUZK_CP", "label": "1664", "nationalCadastralReference": "685429-1664" }, "geometry": { "type": "Point", "coordinates": [ 14.123701978732102, 50.535341427346573 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164395506", "areaValue": 231, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164395506", "namespace": "CZ-00025712-CUZK_CP", "label": "1665", "nationalCadastralReference": "685429-1665" }, "geometry": { "type": "Point", "coordinates": [ 14.12386570267272, 50.535279118986821 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164396506", "areaValue": 167, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164396506", "namespace": "CZ-00025712-CUZK_CP", "label": "1666", "nationalCadastralReference": "685429-1666" }, "geometry": { "type": "Point", "coordinates": [ 14.124000253479887, 50.535469232202118 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1164397506", "areaValue": 335, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1164397506", "namespace": "CZ-00025712-CUZK_CP", "label": "1667", "nationalCadastralReference": "685429-1667" }, "geometry": { "type": "Point", "coordinates": [ 14.12390804637503, 50.535574498281917 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163971506", "areaValue": 116, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163971506", "namespace": "CZ-00025712-CUZK_CP", "label": "1338", "nationalCadastralReference": "685429-1338" }, "geometry": { "type": "Point", "coordinates": [ 14.125032551317325, 50.535680909610342 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163972506", "areaValue": 241, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163972506", "namespace": "CZ-00025712-CUZK_CP", "label": "1339", "nationalCadastralReference": "685429-1339" }, "geometry": { "type": "Point", "coordinates": [ 14.124930417575454, 50.535525049888491 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163973506", "areaValue": 185, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163973506", "namespace": "CZ-00025712-CUZK_CP", "label": "1340", "nationalCadastralReference": "685429-1340" }, "geometry": { "type": "Point", "coordinates": [ 14.12478140780421, 50.535561538920078 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163974506", "areaValue": 147, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163974506", "namespace": "CZ-00025712-CUZK_CP", "label": "1341", "nationalCadastralReference": "685429-1341" }, "geometry": { "type": "Point", "coordinates": [ 14.124661762018711, 50.535587058520925 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163975506", "areaValue": 209, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163975506", "namespace": "CZ-00025712-CUZK_CP", "label": "1342", "nationalCadastralReference": "685429-1342" }, "geometry": { "type": "Point", "coordinates": [ 14.124540137924972, 50.535621479355591 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163955506", "areaValue": 1039, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163955506", "namespace": "CZ-00025712-CUZK_CP", "label": "1324", "nationalCadastralReference": "685429-1324" }, "geometry": { "type": "Point", "coordinates": [ 14.125496928148992, 50.535399126580728 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163956506", "areaValue": 179, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163956506", "namespace": "CZ-00025712-CUZK_CP", "label": "1325", "nationalCadastralReference": "685429-1325" }, "geometry": { "type": "Point", "coordinates": [ 14.125064499632174, 50.535496111565628 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163958506", "areaValue": 177, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163958506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/2", "nationalCadastralReference": "685429-1326\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.1253943308215, 50.535714654357392 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.2113015506", "areaValue": 77, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.2113015506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/8", "nationalCadastralReference": "685429-1326\/8" }, "geometry": { "type": "Point", "coordinates": [ 14.125197744710871, 50.535657503311967 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.2113016506", "areaValue": 19, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.2113016506", "namespace": "CZ-00025712-CUZK_CP", "label": "1326\/9", "nationalCadastralReference": "685429-1326\/9" }, "geometry": { "type": "Point", "coordinates": [ 14.125270783960541, 50.53567117834659 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1542518506", "areaValue": 5, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1542518506", "namespace": "CZ-00025712-CUZK_CP", "label": "1634\/6", "nationalCadastralReference": "685429-1634\/6" }, "geometry": { "type": "Point", "coordinates": [ 14.124322746662481, 50.535649615956025 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1516709506", "areaValue": 1115, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1516709506", "namespace": "CZ-00025712-CUZK_CP", "label": "1354\/2", "nationalCadastralReference": "685429-1354\/2" }, "geometry": { "type": "Point", "coordinates": [ 14.12469720180176, 50.535486564882817 ] } }
+,
+{ "type": "Feature", "properties": { "gml_id": "CP.1163951506", "areaValue": 5, "areaValue_uom": "m2", "beginLifespanVersion": "2013-06-13T22:01:38Z", "localId": "CP.1163951506", "namespace": "CZ-00025712-CUZK_CP", "label": "1322\/4", "nationalCadastralReference": "685429-1322\/4" }, "geometry": { "type": "Point", "coordinates": [ 14.125924359501472, 50.535758044871585 ] } }
+
+]
+}
